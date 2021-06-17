@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Yellow Illustrated Deer Twitter Header(1)](https://raw.githubusercontent.com/mitchdrxms/mitchdrxms/main/Logo%20600x600.png)
 <!--
 **mitchdrxms/mitchdrxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
